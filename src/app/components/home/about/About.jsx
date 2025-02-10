@@ -70,7 +70,7 @@ const About = () => {
                   className="flex flex-col"
                 >
                   <p className="text-primary-white text-7xl font-semibold">
-                    06+
+                    08+
                   </p>
                   <p className="text-secondary-text text-xl font-normal">
                     Years Experience
@@ -92,7 +92,7 @@ const About = () => {
                   className="flex flex-col"
                 >
                   <p className="text-primary-white text-7xl font-semibold">
-                    10+
+                    15+
                   </p>
                   <p className="text-secondary-text text-xl font-normal">
                     Satisfied Clients
